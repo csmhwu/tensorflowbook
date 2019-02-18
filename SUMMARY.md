@@ -13,7 +13,8 @@
 
 ## 第二章 深度学习简介
 
-* [第二章 深度学习简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie.md)
+* [第二章 深度学习简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/README.md)
+  * [2.1 机器学习简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/2.1-ji-qi-xue-xi-jian-jie.md)
 
 ## 第三章 磨刀不误砍柴工：TensorFlow基础
 
