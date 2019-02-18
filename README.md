@@ -16,3 +16,5 @@ MOOC课程建设、教材主编、审核
 
 ### 更多贡献者,等你加入......
 
+![](.gitbook/assets/ke-cheng-feng-mian.png)
+

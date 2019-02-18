@@ -1,5 +1,13 @@
 # 前言
 
+## 这是一本基于MOOC课程的众创教材，欢迎大家加入共同创建！
+
+## MOOC课程网址
+
+### [https://mooc.study.163.com/course/2001396000](https://mooc.study.163.com/course/2001396000)
+
+![](.gitbook/assets/ke-cheng-feng-mian.png)
+
 ##  课程概述
 
 **一、**     **课程目标**
