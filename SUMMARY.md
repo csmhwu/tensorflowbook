@@ -6,7 +6,9 @@
 
 ## 第一章 人工智能导论
 
-* [第一章 人工智能导论](chap01/di-yi-zhang-ren-gong-zhi-neng-dao-lun.md)
+* [第一章 人工智能导论](chap01/di-yi-zhang-ren-gong-zhi-neng-dao-lun/README.md)
+  * [1.1 感受人工智能时代的到来](chap01/di-yi-zhang-ren-gong-zhi-neng-dao-lun/1.1-gan-shou-ren-gong-zhi-neng-shi-dai-de-dao-lai.md)
+  * [1.2 人工智能发展概述，跌宕起伏的60年](chap01/di-yi-zhang-ren-gong-zhi-neng-dao-lun/1.2-ren-gong-zhi-neng-fa-zhan-gai-shu-die-qi-fu-de-60-nian.md)
 
 ## 第二章 深度学习简介
 
