@@ -15,6 +15,9 @@
 
 * [第二章 深度学习简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/README.md)
   * [2.1 机器学习简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/2.1-ji-qi-xue-xi-jian-jie.md)
+  * [2.2 深度学习简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/2.2-shen-du-xue-xi-jian-jie.md)
+  * [2.3 深度学习框架简介](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/2.3-shen-du-xue-xi-kuang-jia-jian-jie.md)
+  * [2.4 本讲小结与作业](chap02/di-er-zhang-shen-du-xue-xi-jian-jie/2.4-ben-jiang-xiao-jie-yu-zuo-ye.md)
 
 ## 第三章 磨刀不误砍柴工：TensorFlow基础
 
@@ -68,7 +71,11 @@
 
 * [第十五章 花卉识别App：TensorFlow Lite与移动应用开发](chap15/di-shi-wu-zhang-hua-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa.md)
 
-## 附录 1 工欲善其事必先利其器：简明Python基础
+## 附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建
 
-* [附录1 工欲善其事必先利其器：简明Python基础](chap-appd01/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu.md)
+* [附录 1 工欲善其事必先利其器：TENSORFLOW开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian.md)
+
+## 附录 2 工欲善其事必先利其器：简明Python基础
+
+* [附录2 工欲善其事必先利其器：简明Python基础](chap-appd02/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu.md)
 
