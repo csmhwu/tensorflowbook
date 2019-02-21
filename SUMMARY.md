@@ -77,5 +77,6 @@
 
 ## 附录 2 工欲善其事必先利其器：简明Python基础
 
-* [附录2 工欲善其事必先利其器：简明Python基础](chap-appd02/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu.md)
+* [附录2 工欲善其事必先利其器：简明Python基础1](chap-appd02/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu.md)
+* [附录2 工欲善其事必先利其器：简明Python基础2](chap-appd02/fu-lu-2-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu-2.md)
 

@@ -10,7 +10,7 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 
 我们只需要下载Python 3.6 version就可以了。
 
-![&#x56FE;1-1](../.gitbook/assets/image%20%28129%29.png)
+![&#x56FE;1-1](../.gitbook/assets/image%20%28131%29.png)
 
 由于从官网上下载速度可能比较慢，所以建议从国内的镜像网站上下载。
 
