@@ -24,7 +24,7 @@
 
 如果在python中不严格遵守缩进的格式会报错：
 
-![&#x56FE;2-103](../../.gitbook/assets/image%20%2897%29.png)
+![&#x56FE;2-103](../../.gitbook/assets/image%20%28100%29.png)
 
 图中第二行多缩进了几个空格就提示了缩进错误，因为两条串行的语句不能在不同的缩进层次。
 
@@ -42,11 +42,11 @@
 
 我们来看一个计算BMI指数的例子：
 
-![&#x56FE;2-107](../../.gitbook/assets/image%20%2892%29.png)
+![&#x56FE;2-107](../../.gitbook/assets/image%20%2894%29.png)
 
-![&#x56FE;2-108](../../.gitbook/assets/image%20%28134%29.png)
+![&#x56FE;2-108](../../.gitbook/assets/image%20%28137%29.png)
 
-![&#x56FE;2-109](../../.gitbook/assets/image%20%28162%29.png)
+![&#x56FE;2-109](../../.gitbook/assets/image%20%28167%29.png)
 
 通过else if语句，我们完成了有三个分支选项的程序。如果情况更加复杂的话，我们也可以嵌套更多的else if语句。
 
