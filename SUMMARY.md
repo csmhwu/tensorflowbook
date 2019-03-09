@@ -33,7 +33,7 @@
 * [3.9	Placeholder 占位符](chap03/3.9placeholder-zhan-wei-fu.md)
 * [3.10	Feed提交数据和Fetch提取数据](chap03/3.10feed-ti-jiao-shu-ju-he-fetch-ti-qu-shu-ju.md)
 * [3.11 TensorBoard可视化初步](chap03/3.11-tensorboard-ke-shi-hua-chu-bu.md)
-* [2.12 本讲小结与作业](chap03/ben-jiang-xiao-jie-yu-zuo-ye.md)
+* [3.12 本讲小结与作业](chap03/ben-jiang-xiao-jie-yu-zuo-ye.md)
 
 ## 第四章 单变量线性回归：TesnsorFlow实战
 
