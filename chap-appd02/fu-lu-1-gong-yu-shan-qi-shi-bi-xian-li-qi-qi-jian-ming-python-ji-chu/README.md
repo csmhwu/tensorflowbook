@@ -1,6 +1,6 @@
 # 附录2 工欲善其事必先利其器：简明Python基础
 
-![&#x56FE;2-1](../../.gitbook/assets/image%20%2834%29.png)
+![&#x56FE;2-1](../../.gitbook/assets/image%20%2836%29.png)
 
 通过上图我们可以看到，在IEEE Spectrum 杂志上公布的2018年十大主流的编程语言中，Python排在第一位。它支持的应用类型很多，包括Web、PC桌面以及嵌入式的设备。
 

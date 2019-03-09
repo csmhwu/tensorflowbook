@@ -22,6 +22,18 @@
 ## 第三章 磨刀不误砍柴工：TensorFlow基础
 
 * [第三章 磨刀不误砍柴工：TensorFlow基础](chap03/di-san-zhang-tensorflow-ji-chu.md)
+* [3.1 TensorFlow 基础](chap03/3.1-tensorflow-ji-chu.md)
+* [3.2 TensorFlow的概念](chap03/3.2-tensorflow-de-gai-nian.md)
+* [3.3 Tensor 张量](chap03/3.3-tensor-zhang-liang.md)
+* [3.4  TensorFlow计算模型 – 数据流图](chap03/3.4-tensorflow-ji-suan-mo-xing-shu-ju-liu-tu.md)
+* [3.5	Operation 操作](chap03/3.5operation-cao-zuo.md)
+* [3.6	Session 会话](chap03/3.6session-hui-hua.md)
+* [3.7	常量与变量](chap03/3.7-chang-liang-yu-bian-liang.md)
+* [3.8	变量的赋值](chap03/3.8-bian-liang-de-fu-zhi.md)
+* [3.9	Placeholder 占位符](chap03/3.9placeholder-zhan-wei-fu.md)
+* [3.10	Feed提交数据和Fetch提取数据](chap03/3.10feed-ti-jiao-shu-ju-he-fetch-ti-qu-shu-ju.md)
+* [3.11 TensorBoard可视化初步](chap03/3.11-tensorboard-ke-shi-hua-chu-bu.md)
+* [2.12 本讲小结与作业](chap03/ben-jiang-xiao-jie-yu-zuo-ye.md)
 
 ## 第四章 单变量线性回归：TesnsorFlow实战
 
