@@ -53,7 +53,12 @@
 
 ## 第八章 图像识别问题：卷积神经网络与应用
 
-* [第八章 图像识别问题：卷积神经网络与应用](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong.md)
+* [第八章 图像识别问题：卷积神经网络与应用](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong/README.md)
+  * [8.1从神经网络到卷积神经网络：解决参数太多的问题](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong/8.1-cong-shen-jing-wang-luo-dao-juan-ji-shen-jing-wang-luo-jie-jue-can-shu-tai-duo-de-wen-ti.md)
+  * [8.2 卷积神经网络的基本结构](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong/8.2-juan-ji-shen-jing-wang-luo-de-ji-ben-jie-gou.md)
+  * [8.3 TensorFlow对卷积神经网络的支持](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong/8.3-tensorflow-dui-juan-ji-shen-jing-wang-luo-de-zhi-chi.md)
+  * [8.4 CIFAR-10图像识别案例的TensorFlow实现](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong/8.4-cifar10-tu-xiang-shi-bie-an-li-de-tensorflow-shi-xian.md)
+  * [8.5 本讲小结与作业](chap08/di-ba-zhang-tu-xiang-shi-bie-wen-ti-juan-ji-shen-jing-wang-luo-yu-ying-yong/8.5-ben-jiang-xiao-jie-yu-zuo-ye.md)
 
 ## 第九章 Deep Dream：理解深度神经网络结构及应用
 
@@ -86,7 +91,7 @@
 ## 附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建
 
 * [附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian.md)
-* [1.1Windows平台下的TensorFlow开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/1.1.md)
+* [1.1 Windows平台下的TensorFlow开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/1.1.md)
 * [1.2 Linux环境下TensorFlow的安装](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/linux-huan-jing-xia-tensorflow-de-an-zhuang.md)
 
 ## 附录 2 工欲善其事必先利其器：简明Python基础

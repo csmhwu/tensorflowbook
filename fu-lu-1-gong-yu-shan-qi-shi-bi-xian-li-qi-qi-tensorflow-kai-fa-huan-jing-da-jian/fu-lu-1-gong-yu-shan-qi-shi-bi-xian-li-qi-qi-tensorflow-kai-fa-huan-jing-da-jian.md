@@ -1,6 +1,6 @@
 # 附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建
 
-#### &gt; 下载及安装Anaconda开发工具
+### &gt; 下载及安装Anaconda开发工具
 
 Anaconda是Python的一个科学计算发行版，内置了上千个Python经常会用到的库，包括Scikit-learn、NumPy、SciPy、Pandas等。
 
@@ -10,7 +10,7 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 
 我们只需要下载Python 3.6 version就可以了。
 
-![&#x56FE;1-1](../.gitbook/assets/image%20%28194%29.png)
+![&#x56FE;1-1](../.gitbook/assets/image%20%28341%29.png)
 
 由于从官网上下载速度可能比较慢，所以建议从国内的镜像网站上下载。
 
@@ -44,7 +44,7 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 
 
 
-#### &gt; 下载及安装TensorFlow
+### &gt; 下载及安装TensorFlow
 
 下一步，我们需要在Anaconda中安装TensorFlow。
 

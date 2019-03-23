@@ -22,7 +22,7 @@ Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Wi
 
 开始安装
 
-![&#x56FE;1](../.gitbook/assets/image%20%28175%29.png)
+![&#x56FE;1](../.gitbook/assets/image%20%28307%29.png)
 
 #### 2. TensorFlow 开发环境搭建
 
@@ -38,9 +38,9 @@ Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Wi
 
 Conda会对当前环境进行自动配置
 
-![&#x56FE;3](../.gitbook/assets/image%20%28102%29.png)
+![&#x56FE;3](../.gitbook/assets/image%20%28186%29.png)
 
 最终显示下图则安装成功
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
