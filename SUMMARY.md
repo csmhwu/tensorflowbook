@@ -23,7 +23,7 @@
 
 * [第三章 磨刀不误砍柴工：TensorFlow基础](chap03/di-san-zhang-tensorflow-ji-chu.md)
 * [3.1 TensorFlow 基础](chap03/3.1-tensorflow-ji-chu.md)
-* [3.2 TensorFlow的概念](chap03/3.2-tensorflow-de-gai-nian.md)
+* [3.2 TensorFlow名字的意义](chap03/3.2-tensorflow-de-gai-nian.md)
 * [3.3 Tensor 张量](chap03/3.3-tensor-zhang-liang.md)
 * [3.4  TensorFlow计算模型 – 数据流图](chap03/3.4-tensorflow-ji-suan-mo-xing-shu-ju-liu-tu.md)
 * [3.5	Operation 操作](chap03/3.5operation-cao-zuo.md)
@@ -38,6 +38,11 @@
 ## 第四章 单变量线性回归：TesnsorFlow实战
 
 * [第四章 单变量线性回归：TesnsorFlow实战](chap04/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan.md)
+* [4.1一切从一个神经元说起](chap04/4.1-yi-qie-cong-yi-ge-shen-jing-yuan-shuo-qi.md)
+* [4.2 基本术语](chap04/untitled-1.md)
+* [4.3 定义损失函数](chap04/4.3-ding-yi-sun-shi-han-shu.md)
+* [4.4 模型训练与降低损失](chap04/4.4-mo-xing-xun-lian-yu-jiang-di-sun-shi.md)
+* [4.5 梯度下降法](chap04/4.5-ti-du-xia-jiang-fa.md)
 
 ## 第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战
 
