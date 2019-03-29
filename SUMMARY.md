@@ -43,6 +43,8 @@
 * [4.3 定义损失函数](chap04/4.3-ding-yi-sun-shi-han-shu.md)
 * [4.4 模型训练与降低损失](chap04/4.4-mo-xing-xun-lian-yu-jiang-di-sun-shi.md)
 * [4.5 梯度下降法](chap04/4.5-ti-du-xia-jiang-fa.md)
+* [4.6 学习率](chap04/4.6-xue-xi-lv.md)
+* [4.7 超参数](chap04/4.7-chao-can-shu.md)
 
 ## 第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战
 
