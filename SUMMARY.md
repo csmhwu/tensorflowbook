@@ -46,6 +46,8 @@
 * [4.6 学习率](chap04/4.6-xue-xi-lv.md)
 * [4.7 超参数](chap04/4.7-chao-can-shu.md)
 * [4.8 线性回归问题TensorFlow实战](chap04/4.8-xian-xing-hui-gui-wen-ti-tensorflow-shi-zhan.md)
+* [4.9 在训练中显示损失值](chap04/4.9-zai-xun-lian-zhong-xian-shi-sun-shi-zhi.md)
+* [4.10 TensorBoard可视化](chap04/4.10-tensorboard-ke-shi-hua-1.md)
 
 ## 第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战
 
