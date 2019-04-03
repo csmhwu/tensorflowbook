@@ -2,7 +2,7 @@
 description: 一本基于MOOC课程的众创教材
 ---
 
-# 深度学习应用开发 - 基于TensorFlow的实践
+# 深度学习应用开发 - TensorFlow实践
 
 ## 作者列表
 
