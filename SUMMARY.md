@@ -48,10 +48,20 @@
 * [4.8 线性回归问题TensorFlow实战](chap04/4.8-xian-xing-hui-gui-wen-ti-tensorflow-shi-zhan.md)
 * [4.9 在训练中显示损失值](chap04/4.9-zai-xun-lian-zhong-xian-shi-sun-shi-zhi.md)
 * [4.10 TensorBoard可视化](chap04/4.10-tensorboard-ke-shi-hua-1.md)
+* [4.12 本章小结和作业](chap04/4.12-ben-zhang-xiao-jie-he-zuo-ye.md)
 
 ## 第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战
 
 * [第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战](chap05/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan.md)
+* [5.1 波士顿房价预测问题简介](chap05/5.1-bo-shi-dun-fang-jia-yu-ce-wen-ti-jian-jie.md)
+* [5.2 机器学习中的基本线性代数](chap05/5.2-ji-qi-xue-xi-zhong-de-ji-ben-xian-xing-dai-shu.md)
+* [5.3 准备建模](chap05/5.4-zhun-bei-jian-mo.md)
+* [5.4 数据读取](chap05/5.3-shu-ju-du-qu.md)
+* [5.5 构建模型](chap05/5.5-mo-xing-ding-yi.md)
+* [5.6 训练模型](chap05/5.6-mo-xing-xun-lian.md)
+* [5.7 进行预测](chap05/5.7-mo-xing-ying-yong.md)
+* [5.8 后续版本改进](chap05/5.8-hou-xu-ban-ben-gai-jin.md)
+* [5.9 本章小结和作业](chap05/5.9-ben-zhang-xiao-jie-he-zuo-ye.md)
 
 ## 第六章 MNIST手写数字识别：分类应用入门
 
