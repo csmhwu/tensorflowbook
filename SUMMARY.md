@@ -110,7 +110,7 @@
 
 ## 附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建
 
-* [附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/README.nd)
+* [附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/README.md)
   * [1.1 Windows平台下的TensorFlow开发环境搭建](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/win-huan-jing-xia-tensorflow-de-an-zhuang.md)
   * [1.2 Linux环境下TensorFlow的安装](fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-tensorflow-kai-fa-huan-jing-da-jian/linux-huan-jing-xia-tensorflow-de-an-zhuang.md)
 
