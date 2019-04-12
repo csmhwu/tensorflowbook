@@ -36,7 +36,16 @@ Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Wi
 
 `conda install tensorflow-gpu`
 
-Conda会对当前环境进行自动配置
+在使用GPU版本的Tensorflow之前，首先要确保计算机满足以下几个条件
+
+- 计算机中带有NVIDIA®计算能力大于3.0的显卡
+- 已经在Linux系统中安装好NVIDIA® GPU drivers，并且符合CUDA版本要求
+- 安装CUDA® Toolkit
+- （可选）CUDA® Deep Neural Network library（CUDNN）
+
+详情可见Tensorflow官网对于GPU支持的说明：https://www.tensorflow.org/install/gpu
+
+Conda会对当前环境进行自动配置,同时也会安装除显卡驱动以外的所需依赖，一般来说只要显卡驱动版本满足CUDA®的最低要求其他的Conda都会帮你搞定。
 
 ![&#x56FE;3](../.gitbook/assets/image%20%28186%29.png)
 
