@@ -1,4 +1,8 @@
-# 附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建
+---
+description: Windows平台（64位）平台下的TensorFlow开发环境搭建
+---
+
+# 1.1 Windows平台下的TensorFlow开发环境搭建
 
 ### &gt; 下载及安装Anaconda开发工具
 
