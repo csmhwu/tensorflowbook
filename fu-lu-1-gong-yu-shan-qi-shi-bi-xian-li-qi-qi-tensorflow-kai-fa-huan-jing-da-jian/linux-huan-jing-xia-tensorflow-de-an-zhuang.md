@@ -45,7 +45,7 @@ Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Wi
 
 详情可见Tensorflow官网对于GPU支持的说明：https://www.tensorflow.org/install/gpu
 
-Conda会对当前环境进行自动配置
+Conda会对当前环境进行自动配置,同时也会安装除显卡驱动以外的所需依赖，一般来说只要显卡驱动版本满足CUDA®的最低要求其他的Conda都会帮你搞定。
 
 ![&#x56FE;3](../.gitbook/assets/image%20%28186%29.png)
 
