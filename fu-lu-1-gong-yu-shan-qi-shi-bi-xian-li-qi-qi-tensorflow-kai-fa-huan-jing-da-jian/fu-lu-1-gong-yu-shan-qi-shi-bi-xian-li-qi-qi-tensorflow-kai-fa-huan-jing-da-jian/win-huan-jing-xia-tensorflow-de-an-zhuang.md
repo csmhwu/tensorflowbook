@@ -4,7 +4,7 @@ description: Windows平台（64位）平台下的TensorFlow开发环境搭建
 
 # 1.1 Windows平台下的TensorFlow开发环境搭建
 
-### &gt; 下载及安装Anaconda开发工具
+## &gt; 下载及安装Anaconda开发工具
 
 Anaconda是Python的一个科学计算发行版，内置了上千个Python经常会用到的库，包括Scikit-learn、NumPy、SciPy、Pandas等。
 
@@ -14,7 +14,7 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 
 我们只需要下载Python 3.6 version就可以了。
 
-![&#x56FE;1-1](../.gitbook/assets/image%20%28341%29.png)
+![&#x56FE;1-1](../../.gitbook/assets/image%20%28341%29.png)
 
 由于从官网上下载速度可能比较慢，所以建议从国内的镜像网站上下载。
 
@@ -27,8 +27,6 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 ![&#x56FE;1-2](blob:https://minghuiwu.gitbook.io/e16f2fd9-9c68-4699-967c-afae66dfdd11)
 
 这里以Anaconda3-4.2.0-Windows-x86\_64.exe为例来解释一下文件名的含义：3-是Python版本3.x，Windows-x86是32位系统，Windows-x86\_64是64位系统。
-
-
 
 接下来我们进行Anaconda的安装。
 
@@ -46,9 +44,7 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 
 这里有许多的程序，在之后我们会用到比较多的是Anaconda Prompt以及Jupyter Notebook。
 
-
-
-### &gt; 下载及安装TensorFlow
+## &gt; 下载及安装TensorFlow
 
 下一步，我们需要在Anaconda中安装TensorFlow。
 
@@ -58,7 +54,7 @@ Anaconda是Python的一个科学计算发行版，内置了上千个Python经常
 
 首先，我们打开Anaconda Prompt窗口，执行命令：
 
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels [https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/](https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/)
 
 然后执行命令：
 
@@ -76,8 +72,6 @@ conda config --set show\_channel\_urls yes
 
 ![&#x56FE;1-9](blob:https://minghuiwu.gitbook.io/c1b1c9d5-1df8-467a-98e4-c729e1164079)
 
-
-
 我们知道TensorFlow有支持GPU的版本，有条件的话，可以安装GPU版本。在教学过程中，我们安装普通CPU的版本即可。
 
 安装普通版TensorFlow命令为：conda install tensorflow
@@ -93,8 +87,6 @@ TensorFlow的安装依赖于MSVCP140.DLL，如果安装过程中报相关错误�
 Visual C++ 2015 redistributable的下载网址如下：
 
 [https://www.microsoft.com/en-us/download/details.aspx?id=53587](https://www.microsoft.com/en-us/download/details.aspx?id=53587)
-
-
 
 安装完毕后，需要测试TensorFlow是否安装成功，我们会用到刚刚提到的Jupyter Notebook。
 
