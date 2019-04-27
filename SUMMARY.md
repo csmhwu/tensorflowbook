@@ -87,9 +87,14 @@
 ## 第十章 猫狗大战：迁移学习及应用
 
 * [第十章 猫狗大战：迁移学习及应用](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/README.md)
-  * [10.1 迁移学习简介](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.1-qian-yi-xue-xi-jian-jie.md)
-  * [10.2](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.2.md)
-  * [10.3](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.3.md)
+  * [10.1 猫狗大战简介](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.2.md)
+  * [10.2 迁移学习简介](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.1-qian-yi-xue-xi-jian-jie.md)
+  * [10.3 数据准备](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.3.md)
+  * [10.4 VGG16的Tensorflow实现](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.4-vgg16-de-tensorflow-shi-xian.md)
+  * [10.5 VGG16模型复用](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.5-vgg16-mo-xing-fu-yong.md)
+  * [10.6 数据输入](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.6-shu-ju-shu-ru.md)
+  * [10.7 模型重新训练与保存](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.7-mo-xing-zhong-xin-xun-lian-yu-bao-cun.md)
+  * [10.8 预测](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.8-yu-ce.md)
 
 ## 第十一章 生成式对抗网络原理及Tensorflow实现
 
