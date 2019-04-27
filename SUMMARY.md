@@ -21,47 +21,47 @@
 
 ## 第三章 磨刀不误砍柴工：TensorFlow基础
 
-* [第三章 磨刀不误砍柴工：TensorFlow基础](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu.md)
-* [3.1 TensorFlow 基础](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.1-tensorflow-ji-chu.md)
-* [3.2 TensorFlow名字的意义](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.2-tensorflow-de-gai-nian.md)
-* [3.3 Tensor 张量](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.3-tensor-zhang-liang.md)
-* [3.4  TensorFlow计算模型 – 数据流图](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.4-tensorflow-ji-suan-mo-xing-shu-ju-liu-tu.md)
-* [3.5    Operation 操作](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.5operation-cao-zuo.md)
-* [3.6    Session 会话](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.6session-hui-hua.md)
-* [3.7    常量与变量](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.7-chang-liang-yu-bian-liang.md)
-* [3.8    变量的赋值](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.8-bian-liang-de-fu-zhi.md)
-* [3.9    Placeholder 占位符](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.9placeholder-zhan-wei-fu.md)
-* [3.10    Feed提交数据和Fetch提取数据](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.10feed-ti-jiao-shu-ju-he-fetch-ti-qu-shu-ju.md)
-* [3.11 TensorBoard可视化初步](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/3.11-tensorboard-ke-shi-hua-chu-bu.md)
-* [3.12 本讲小结与作业](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/ben-jiang-xiao-jie-yu-zuo-ye.md)
+* [第三章 磨刀不误砍柴工：TensorFlow基础](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/README.md)
+  * [3.1 TensorFlow 基础](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.1-tensorflow-ji-chu.md)
+  * [3.2 TensorFlow名字的意义](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.2-tensorflow-de-gai-nian.md)
+  * [3.3 Tensor 张量](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.3-tensor-zhang-liang.md)
+  * [3.4  TensorFlow计算模型 – 数据流图](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.4-tensorflow-ji-suan-mo-xing-shu-ju-liu-tu.md)
+  * [3.5    Operation 操作](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.5operation-cao-zuo.md)
+  * [3.6    Session 会话](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.6session-hui-hua.md)
+  * [3.7    常量与变量](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.7-chang-liang-yu-bian-liang.md)
+  * [3.8    变量的赋值](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.8-bian-liang-de-fu-zhi.md)
+  * [3.9    Placeholder 占位符](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.9placeholder-zhan-wei-fu.md)
+  * [3.10    Feed提交数据和Fetch提取数据](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.10feed-ti-jiao-shu-ju-he-fetch-ti-qu-shu-ju.md)
+  * [3.11 TensorBoard可视化初步](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/3.11-tensorboard-ke-shi-hua-chu-bu.md)
+  * [3.12 本讲小结与作业](di-san-zhang-mo-dao-bu-wu-kan-chai-gong-tensorflow-ji-chu/di-san-zhang-tensorflow-ji-chu/ben-jiang-xiao-jie-yu-zuo-ye.md)
 
 ## 第四章 单变量线性回归：TesnsorFlow实战
 
-* [第四章 单变量线性回归：TesnsorFlow实战](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan.md)
-* [4.1一切从一个神经元说起](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.1-yi-qie-cong-yi-ge-shen-jing-yuan-shuo-qi.md)
-* [4.2 基本术语](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/untitled-1.md)
-* [4.3 定义损失函数](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.3-ding-yi-sun-shi-han-shu.md)
-* [4.4 模型训练与降低损失](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.4-mo-xing-xun-lian-yu-jiang-di-sun-shi.md)
-* [4.5 梯度下降法](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.5-ti-du-xia-jiang-fa.md)
-* [4.6 学习率](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.6-xue-xi-lv.md)
-* [4.7 超参数](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.7-chao-can-shu.md)
-* [4.8 线性回归问题TensorFlow实战](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.8-xian-xing-hui-gui-wen-ti-tensorflow-shi-zhan.md)
-* [4.9 在训练中显示损失值](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.9-zai-xun-lian-zhong-xian-shi-sun-shi-zhi.md)
-* [4.10 TensorBoard可视化](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.10-tensorboard-ke-shi-hua-1.md)
-* [4.12 本章小结和作业](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.12-ben-zhang-xiao-jie-he-zuo-ye.md)
+* [第四章 单变量线性回归：TesnsorFlow实战](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/README.md)
+  * [4.1一切从一个神经元说起](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.1-yi-qie-cong-yi-ge-shen-jing-yuan-shuo-qi.md)
+  * [4.2 基本术语](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/untitled-1.md)
+  * [4.3 定义损失函数](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.3-ding-yi-sun-shi-han-shu.md)
+  * [4.4 模型训练与降低损失](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.4-mo-xing-xun-lian-yu-jiang-di-sun-shi.md)
+  * [4.5 梯度下降法](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.5-ti-du-xia-jiang-fa.md)
+  * [4.6 学习率](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.6-xue-xi-lv.md)
+  * [4.7 超参数](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.7-chao-can-shu.md)
+  * [4.8 线性回归问题TensorFlow实战](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.8-xian-xing-hui-gui-wen-ti-tensorflow-shi-zhan.md)
+  * [4.9 在训练中显示损失值](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.9-zai-xun-lian-zhong-xian-shi-sun-shi-zhi.md)
+  * [4.10 TensorBoard可视化](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.10-tensorboard-ke-shi-hua-1.md)
+  * [4.12 本章小结和作业](di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/di-si-zhang-dan-bian-liang-xian-xing-hui-gui-tesnsorflow-shi-zhan/4.12-ben-zhang-xiao-jie-he-zuo-ye.md)
 
 ## 第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战
 
-* [第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan.md)
-* [5.1 波士顿房价预测问题简介](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.1-bo-shi-dun-fang-jia-yu-ce-wen-ti-jian-jie.md)
-* [5.2 机器学习中的基本线性代数](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.2-ji-qi-xue-xi-zhong-de-ji-ben-xian-xing-dai-shu.md)
-* [5.3 准备建模](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.4-zhun-bei-jian-mo.md)
-* [5.4 数据读取](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.3-shu-ju-du-qu.md)
-* [5.5 构建模型](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.5-mo-xing-ding-yi.md)
-* [5.6 训练模型](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.6-mo-xing-xun-lian.md)
-* [5.7 进行预测](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.7-mo-xing-ying-yong.md)
-* [5.8 后续版本改进](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.8-hou-xu-ban-ben-gai-jin.md)
-* [5.9 本章小结和作业](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.9-ben-zhang-xiao-jie-he-zuo-ye.md)
+* [第五章 多元线性回归：波士顿房价预测问题TesnsorFlow实战](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/README.md)
+  * [5.1 波士顿房价预测问题简介](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.1-bo-shi-dun-fang-jia-yu-ce-wen-ti-jian-jie.md)
+  * [5.2 机器学习中的基本线性代数](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.2-ji-qi-xue-xi-zhong-de-ji-ben-xian-xing-dai-shu.md)
+  * [5.3 准备建模](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.4-zhun-bei-jian-mo.md)
+  * [5.4 数据读取](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.3-shu-ju-du-qu.md)
+  * [5.5 构建模型](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.5-mo-xing-ding-yi.md)
+  * [5.6 训练模型](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.6-mo-xing-xun-lian.md)
+  * [5.7 进行预测](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.7-mo-xing-ying-yong.md)
+  * [5.8 后续版本改进](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.8-hou-xu-ban-ben-gai-jin.md)
+  * [5.9 本章小结和作业](di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/di-wu-zhang-duo-yuan-xian-xing-hui-gui-bo-shi-dun-fang-jia-yu-ce-wen-ti-tesnsorflow-shi-zhan/5.9-ben-zhang-xiao-jie-he-zuo-ye.md)
 
 ## 第六章 MNIST手写数字识别：分类应用入门
 
@@ -86,7 +86,10 @@
 
 ## 第十章 猫狗大战：迁移学习及应用
 
-* [第十章 猫狗大战：迁移学习及应用](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong.md)
+* [第十章 猫狗大战：迁移学习及应用](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/README.md)
+  * [10.1 迁移学习简介](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.1-qian-yi-xue-xi-jian-jie.md)
+  * [10.2](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.2.md)
+  * [10.3](di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/di-shi-zhang-mao-gou-da-zhan-qian-yi-xue-xi-ji-ying-yong/10.3.md)
 
 ## 第十一章 生成式对抗网络原理及Tensorflow实现
 
