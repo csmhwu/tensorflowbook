@@ -146,4 +146,5 @@
   * [2.27 异常](fu-lu-2-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/2.27-yi-chang.md)
   * [2.28 导入外部库](fu-lu-2-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/2.28-dao-ru-wai-bu-ku.md)
   * [2.29 获取帮助信息](fu-lu-2-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/fu-lu-1-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/2.29-huo-qu-bang-zhu-xin-xi.md)
+* [附录3 协同编书指南](fu-lu-2-gong-yu-shan-qi-shi-bi-xian-li-qi-qi-jian-ming-python-ji-chu/fu-lu-3-xie-tong-bian-shu-zhi-nan.md)
 
