@@ -110,11 +110,18 @@
 
 ## 第十四章 鸢尾花品种识别：TensorFlow.js应用开发
 
-* [第十四章 鸢尾花品种识别：TensorFlow.js应用开发](di-shi-si-zhang-yuan-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/di-shi-si-zhang-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa.md)
+* [第十四章 鸢尾花品种识别：TensorFlow.js应用开发](di-shi-si-zhang-yuan-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/di-shi-si-zhang-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/README.md)
+  * [14.1 TensorFlow.js 简介](di-shi-si-zhang-yuan-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/di-shi-si-zhang-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/14.1-tensorflow.js-jian-jie.md)
+  * [14.2 网页开发环境介绍](di-shi-si-zhang-yuan-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/di-shi-si-zhang-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/14.2-wang-ye-kai-fa-huan-jing-jie-shao.md)
+  * [14.3 TensorFlow.js 核心概念](di-shi-si-zhang-yuan-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/di-shi-si-zhang-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/14.3-tensorflow.js-he-xin-gai-nian.md)
+  * [14.4 TF.js应用：鸢尾花品种识别](di-shi-si-zhang-yuan-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/di-shi-si-zhang-wei-hua-pin-zhong-shi-bie-tensorflow.js-ying-yong-kai-fa/14.4-ji-yu-tensorflow.js-wei-hua-pin-zhong-shi-bie.md)
 
 ## 第十五章 花卉识别App：TensorFlow Lite与移动应用开发
 
-* [第十五章 花卉识别App：TensorFlow Lite与移动应用开发](di-shi-wu-zhang-hua-hui-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/di-shi-wu-zhang-hua-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa.md)
+* [第十五章 花卉识别App：TensorFlow Lite与移动应用开发](di-shi-wu-zhang-hua-hui-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/di-shi-wu-zhang-hua-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/README.md)
+  * [15.1 TensorFlow Lite 基本介绍](di-shi-wu-zhang-hua-hui-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/di-shi-wu-zhang-hua-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/15.1-tensorflow-lite-ji-ben-jie-shao.md)
+  * [15.2 TensorFlow 基本架构](di-shi-wu-zhang-hua-hui-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/di-shi-wu-zhang-hua-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/15.2-tensorflow-ji-ben-jia-gou.md)
+  * [15.3 TFLite应用：手机识别花型](di-shi-wu-zhang-hua-hui-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/di-shi-wu-zhang-hua-shi-bie-apptensorflow-lite-yu-yi-dong-ying-yong-kai-fa/15.2-tflite-ying-yong-shou-ji-shi-bie-hua-xing.md)
 
 ## 附录 1 工欲善其事必先利其器：TensorFlow开发环境搭建
 

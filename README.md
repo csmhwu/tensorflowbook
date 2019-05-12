@@ -12,7 +12,7 @@ Gitbook Link: [https://minghuiwu.gitbook.io/tfbook/](https://minghuiwu.gitbook.i
 | :--- | :--- |
 | 浙江大学城市学院 吴明晖 csmhwu | MOOC课程建设、教材主编、审核 |
 | 浙江大学城市学院 王愉鉴 bunnywwwwyj | 第一章、第二章、第八章、附录1.1、附录2 简明Python基础 内容整理 |
-| 浙江大学城市学院 王傲然 | 第三章、第四章、第五章 内容整理、附录1.2 Linux环境下TensorFlow的搭建、附录3 协同编书指南 |
+| 浙江大学城市学院 王傲然 | 第三章、第四章、第五章、第十章 内容整理、附录1.2 Linux环境下TensorFlow的搭建、附录3 协同编书指南 |
 | 浙江大学城市学院 黑&蛋 HDsky | 附录1.2 Linux环境下TensorFlow的搭建 |
 
 ### 更多贡献者,等你加入......
